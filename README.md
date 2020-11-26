@@ -2,10 +2,10 @@
 MatLab script that creates a random running route of a chosen distance in Madison, WI using roads I like to run on.
 
 ## Required Files
-Run Nodes.kmz--Latitude and Longitude of intersections on my favorite running routes
-Random Run Distances.xlsx--Distances between connected intersections in Madison
-RandomRunGenerator.m--MatLab script that creates the random route
-kmz2struct.m--MatLab function that reads in locations from the .kmz as rows in a MatLab formatted structure
+1. Run Nodes.kmz--Latitude and Longitude of intersections on my favorite running routes
+2. Random Run Distances.xlsx--Distances between connected intersections in Madison
+3. RandomRunGenerator.m--MatLab script that creates the random route
+4. kmz2struct.m--MatLab function that reads in locations from the .kmz as rows in a MatLab formatted structure
 
 ## Instructions:
 1. Save Required files into a folder
