@@ -5,6 +5,7 @@ MatLab script that creates a random running route of a chosen distance in Madiso
 Run Nodes.kmz--Latitude and Longitude of intersections on my favorite running routes
 Random Run Distances.xlsx--Distances between connected intersections in Madison
 RandomRunGenerator.m--MatLab script that creates the random route
+kmz2struct.m--MatLab function that reads in locations from the .kmz as rows in a MatLab formatted structure
 
 ## Instructions:
 1. Save Required files into a folder
